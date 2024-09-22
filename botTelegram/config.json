@@ -1,4 +1,5 @@
 {
+	"Comentario": "Para conseguir un token debe crear un bot en Telegram con por ejemplo BotFather y el mismo te dara el token del mismo",
 	"TOKEN": "Tu_Token"
 }
   
